@@ -1,9 +1,9 @@
 {
-  "name": "koa-sso-ayth-sys",
+  "name": "koa-sso-auth-sys",
   "version": "0.0.1",
   "license": "MIT",
   "description": "A koa sso server",
-  "repository": "zhangboyce/koa-sso-ayth-sys",
+  "repository": "zhangboyce/koa-sso-auth-sys",
   "dependencies": {
     "koa": "^1.2.0",
     "koa-router": "^5.4.0",
