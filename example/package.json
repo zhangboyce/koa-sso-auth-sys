@@ -1,0 +1,14 @@
+{
+  "name": "koa-sso-auth-sys-example",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "a example auth-sys app build for koa-sso-auth-sys lib.",
+  "repository": "zhangboyce/koa-sso-auth-sys",
+  "scripts": {
+    "start": "node example.js",
+    "bower": "./node_modules/bower/bin/bower install"
+  },
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}

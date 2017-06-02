@@ -5,3 +5,6 @@ node_modules/
 .env
 /public/build/bundle.js*
 /config/defaut.json
+example/node_modules/
+example/public/vendor
+npm-debug.log

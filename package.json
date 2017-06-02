@@ -14,7 +14,6 @@
     "koa-generic-session": "^1.11.5",
     "path": "^0.12.7",
     "co-body": "^4.2.0",
-    "mongodb": "~2.2.6",
     "methods": "^1.1.2",
     "config": "^1.24.0",
     "redis": "^2.6.3",

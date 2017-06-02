@@ -1,0 +1,22 @@
+{
+  "name": "koa-sso-auth-sys-example",
+  "description": "a example auth-sys app build for koa-sso-auth-sys lib.",
+  "main": "example.js",
+  "authors": [
+    "Boyce"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zhangboyce/koa-sso-auth-sys",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "Font-Awesome": "^4.7.0"
+
+  }
+}
